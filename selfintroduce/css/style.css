@@ -24,17 +24,8 @@ header{
 	width: 240px;
 }
 
-.header-right{
-	position: absolute;
-	top: 20px;
-	right: 20px;
-	padding: 10px;
-	background: cover;
-}
-
-.header-right img{
-	width: 25px;
-	height: 25px;
+a:link, a:visited, a:hover, a:active {
+  color: #fff;
 }
 
 .welcom{
@@ -187,6 +178,7 @@ header{
 .icon .name{
 	display: none;
 }
+
 
 
 footer{
